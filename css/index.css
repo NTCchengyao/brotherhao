@@ -23,6 +23,13 @@ body{
     justify-content: center;
     align-items: center;
 }
+.box img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 5%;
+    bottom: 20vh;
+}
 .bg_1{
     background-image: url('../images/a5.jpg');
 }
