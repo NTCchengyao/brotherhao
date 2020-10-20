@@ -19,16 +19,19 @@ body{
     position: absolute;
     bottom: 0px;
     background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .bg_1{
-    background-image: url('images/a5.jpg');
+    background-image: url('../images/a5.jpg');
 }
 .bg_2{
-    background-image: url('images/a4.jpg');
+    background-image: url('../images/a4.jpg');
 }
 .bg_3{
-    background-image: url('images/a7.jpg');
+    background-image: url('../images/a7.jpg');
 }
 .bg_4{
-    background-image: url('images/a8.jpg');
+    background-image: url('../images/a8.jpg');
 }
